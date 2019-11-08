@@ -32,3 +32,8 @@ I implemented MVC architecture which encrypts new users’ passwords or authenti
 
 ## Future Plan
 In the future, we hope to continue improving the site. We would like our update method to be a little more streamlined and also allow the user to add dates to events/tasks. We would also like the user to be able to customize their own hotkeys if they prefer to use their own rather than the ones we set up.
+
+## Demo
+[Click here to Demo!](https://rapid-logger.herokuapp.com/)
+
+
