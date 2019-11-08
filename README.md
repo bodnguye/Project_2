@@ -13,6 +13,9 @@ The Rapid Logger is designed to be a personal task management system that helps 
 
 I implemented MVC architecture which encrypts new users’ passwords or authenticates returning users.
 
+## Demo
+[Click here to Demo!](https://rapid-logger.herokuapp.com/)
+
 ## Technologies Used
 - HTML5
 - CSS3
